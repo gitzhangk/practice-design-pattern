@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6657177b-365f-4c72-8fa9-8ddd23677019" name="Default Changelist" comment="" />
+    <list default="true" id="6657177b-365f-4c72-8fa9-8ddd23677019" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/adapterpattern/service/impl/AudioPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="46" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="46" />
+            <state relative-caret-position="150">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -132,6 +134,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -397,7 +400,7 @@
       <updated>1565919495620</updated>
       <workItem from="1565919502036" duration="15779000" />
       <workItem from="1565944130994" duration="1101000" />
-      <workItem from="1565945243541" duration="1502000" />
+      <workItem from="1565945243541" duration="2194000" />
     </task>
     <task id="LOCAL-00001" summary="首次提交，新增工厂方法模式和抽象工厂方法模式">
       <created>1565923470319</created>
@@ -466,7 +469,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18382000" />
+    <option name="totallyTimeSpent" value="19074000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -906,8 +909,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/adapterpattern/service/impl/AudioPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="46" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="46" />
+        <state relative-caret-position="150">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>

@@ -1,6 +1,9 @@
-package main.java.designpattern.factorypattern.service.impl;
+package main.java.designpattern.factorypattern;
 
 import main.java.designpattern.factorypattern.service.Shape;
+import main.java.designpattern.factorypattern.service.impl.Circle;
+import main.java.designpattern.factorypattern.service.impl.Rectangle;
+import main.java.designpattern.factorypattern.service.impl.Square;
 
 public class ShapeFactory {
     //使用 getShape 方法获取形状类型的对象

@@ -1,5 +1,7 @@
-package main.java.designpattern.builderpattern.service.impl;
+package main.java.designpattern.builderpattern;
 
+
+import main.java.designpattern.builderpattern.service.impl.*;
 
 public class MealBuilder {
 
